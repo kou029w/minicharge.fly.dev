@@ -1,1 +1,1 @@
-FROM miniflux/miniflux:2.0.44@sha256:c92f391bedbae1948f2757784edf6ea1bd02b09722dfbe8e9aa75076aaae84ee
+FROM miniflux/miniflux:2.0.45@sha256:7b0590c7c85280f5fb0ab723865875d4fc48ca1c82199f61998bf81a3f550ee1
